@@ -11,8 +11,21 @@ Write your design steps here
 ### Step 2:
 Write your design steps here
 
+## Step 3:
+Duplicate tha layout and modify the next pages.
+
+## Step 4:
+Save the pages and its done.
+
 ## OUTPUT:
-include your output screenshots 
+## HOME PAGE:
+![Output](AAA1.png)
+
+## TRANING PAGE:
+![Output](AAA2.png)
+
+## ABOUTUS PAGE:
+![Output](AAA3.png)
 
 
 ## Result:
